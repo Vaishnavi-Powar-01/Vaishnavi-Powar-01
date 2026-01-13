@@ -52,8 +52,7 @@ Supports placing, resizing, and positioning signatures for easy and efficient do
 
 ## 🌐 Connect With Me
 📧 **Email:** vaishnavipowar11@gmail.com  
-💼 **LinkedIn:**  [linkedin.com/in/vaishnavi-ravsaheb-powar](https://www.linkedin.com/in/vaishnavi-ravsaheb-powar01/)
-
+💼 **LinkedIn:**  [linkedin.com/in/vaishnavi-ravsaheb-powar](https://www.linkedin.com/in/vaishnavi-ravsaheb-powar01/)  
 💻 **GitHub:**  [github.com/Vaishnavi-Powar-01](https://github.com/Vaishnavi-Powar-01)
 
 
