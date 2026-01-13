@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m **Vaishnavi Powar**
 
-**Full-Stack Developer | MERN Stack | Next.js | Computer Science Engineer (2025)**
+**MERN Stack Developer | Next.js | Computer Science Engineer (2025)**
 
 🚀 I enjoy creating **modern, scalable, and user-friendly web applications**  
 🧩 Passionate about turning ideas into **real-world digital solutions** using full-stack technologies  
